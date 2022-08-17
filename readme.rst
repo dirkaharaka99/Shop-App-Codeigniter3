@@ -1,3 +1,6 @@
+Install Codeigniter3 in your local computer because i can't upload the System Folder.... Thanks
+
+
 ###################
 What is CodeIgniter
 ###################
